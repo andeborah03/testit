@@ -7,6 +7,7 @@ public class Testing {
 //        Scanner sc=new Scanner(System.in);
 //        System.out.println("Enter the no of times to rotate: ");
 //        int d=sc.nextInt();
+// sending tracked file
         int[] a={1,2,3,4,5,6,7};
 //        if(d<0)
 //            d=d+a.length;
